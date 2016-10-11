@@ -20,3 +20,5 @@ Let's take this query for example:
 
 Let's break this down:
 
+The `select` command grabs all the rows from the table users 
+
