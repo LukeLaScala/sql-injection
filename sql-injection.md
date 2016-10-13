@@ -36,6 +36,14 @@ And bam! SQL Injection is born.
 
 We can now make the query do almost anything we want. 
 
+These operators will be very helpful: 
+
+`OR` and `#`
+
+`#` comments the rest of the line out. 
+
+[First Problem](http://abctf.xtyz)
+
 
 
 
