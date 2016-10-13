@@ -1,2 +1,4 @@
 # SQL Injection
-Describes the basics of sql-injection
+
+Describes the basics of SQL Injection
+
