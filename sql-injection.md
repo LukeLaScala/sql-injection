@@ -43,8 +43,5 @@ These operators will be very helpful:
 
 `#` comments the rest of the line out.
 
-\#\#\#More coming soon! But for now try the first problem below! Click the link, make an account and join the group called CTF Club, where you should see the problem titled: 1 = 1? I think.
-
-[First Problem](http://learn.abctf.xyz)
-
+\#\#\#More coming soon!
 
