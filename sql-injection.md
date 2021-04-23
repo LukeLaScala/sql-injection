@@ -17,7 +17,7 @@ So let's say there is a query that looks like this:
 
 `$username` is a variable that contains a username supplied by the user.
 
-`$password` is a variable that contains a username supplied by the user.
+`$password` is a variable that contains a password supplied by the user.
 
 ### This is when it gets very interesting.
 
